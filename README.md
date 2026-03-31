@@ -1,22 +1,16 @@
-# Netflix Movies and TV Shows Data Analysis using SQL
+# Netflix Movies & TV Shows Data Analysis (SQL + Power BI)
 
 ![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
 
 ## Overview
-This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
+This project presents an end-to-end analysis of Netflix Movies and TV Shows data using SQL for data exploration and Power BI for interactive visualization.
+The goal is to uncover meaningful insights about content distribution, trends, ratings, and global availability, and present them through a visually engaging dashboard..
 
-## Objectives
-
-- Analyze the distribution of content types (movies vs TV shows).
-- Identify the most common ratings for movies and TV shows.
-- List and analyze content based on release years, countries, and durations.
-- Explore and categorize content based on specific criteria and keywords.
-
-## Dataset
-
-The data for this project is sourced from the Kaggle dataset:
-
-- **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+##  Objectives
+- Analyze the distribution of Movies vs TV Shows and identify the most common content ratings  
+- Explore content trends based on release years, countries, durations, and keywords  
+- Build an interactive Power BI dashboard to enable dynamic filtering and better decision-making  
+- Use DAX and visualizations to uncover insights such as content distribution, time-based trends, and geographical patterns  
 
 ## Schema
 
@@ -256,14 +250,15 @@ GROUP BY category;
 
 **Objective:** Categorize content as 'Age-restricted_content' if it contains 'kill' or 'violence' and 'Clean_content' otherwise. Count the number of items in each category.
 
-## Findings and Conclusion
+##  Conclusion
 
-- **Content Distribution:** The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
-- **Common Ratings:** Insights into the most common ratings provide an understanding of the content's target audience.
-- **Geographical Insights:** The top countries and the average content releases by India highlight regional content distribution.
-- **Content Categorization:** Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
+- **Content Distribution:** The dataset reveals a diverse mix of movies and TV shows across various genres and ratings, with movies forming a major portion of the content.  
+- **Audience Insights:** Analysis of common ratings highlights that a significant share of content targets mature audiences.  
+- **Geographical Insights:** Content is widely distributed across countries, with strong regional contributions, including insights into India’s content trends.  
+- **Content Trends & Categorization:** Exploring release years, durations, and keywords helps in understanding content patterns and evolution over time.  
+- **Interactive Visualization:** The Power BI dashboard enhances data interpretation through interactive visuals, enabling better exploration, storytelling, and decision-making.  
 
-This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
+This project provides a comprehensive and visually driven analysis of Netflix’s content, combining SQL and Power BI to deliver actionable insights for content strategy and business understanding.
 
 
 
