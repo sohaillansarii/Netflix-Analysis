@@ -1,15 +1,17 @@
 # Netflix Movies & TV Shows Data Analysis (SQL + Power BI)
 
-![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
+<p align="center">
+  <img src="https://github.com/najirh/netflix_sql_project/blob/main/logo.png" width="400"/>
+</p>
 
 ### 📊 Dashboard 1
 <p align="center">
-  <img src="netflix_dashboard_1.png" width="800"/>
+  <img src="netflix_dashboard_1.png" width="1400"/>
 </p>
 
 ###  Dashboard 2
 <p align="center">
-  <img src="netflix_dashboard_2..png" width="800"/>
+  <img src="netflix_dashboard_2.png" width="1400"/>
 </p
 
 
