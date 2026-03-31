@@ -2,6 +2,17 @@
 
 ![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
 
+### 📊 Dashboard 1
+<p align="center">
+  <img src="netflix_dashboard_1.png" width="800"/>
+</p>
+
+###  Dashboard 2
+<p align="center">
+  <img src="netflix_dashboard_2..png" width="800"/>
+</p
+
+
 ## Overview
 This project presents an end-to-end analysis of Netflix Movies and TV Shows data using SQL for data exploration and Power BI for interactive visualization.
 The goal is to uncover meaningful insights about content distribution, trends, ratings, and global availability, and present them through a visually engaging dashboard..
@@ -255,7 +266,6 @@ GROUP BY category;
 - **Content Distribution:** The dataset reveals a diverse mix of movies and TV shows across various genres and ratings, with movies forming a major portion of the content.  
 - **Audience Insights:** Analysis of common ratings highlights that a significant share of content targets mature audiences.  
 - **Geographical Insights:** Content is widely distributed across countries, with strong regional contributions, including insights into India’s content trends.  
-- **Content Trends & Categorization:** Exploring release years, durations, and keywords helps in understanding content patterns and evolution over time.  
 - **Interactive Visualization:** The Power BI dashboard enhances data interpretation through interactive visuals, enabling better exploration, storytelling, and decision-making.  
 
 This project provides a comprehensive and visually driven analysis of Netflix’s content, combining SQL and Power BI to deliver actionable insights for content strategy and business understanding.
