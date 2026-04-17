@@ -270,7 +270,7 @@ GROUP BY category;
 - **Geographical Insights:** Content is widely distributed across countries, with strong regional contributions, including insights into India’s content trends.  
 - **Interactive Visualization:** The Power BI dashboard enhances data interpretation through interactive visuals, enabling better exploration, storytelling, and decision-making.  
 
--- Business Insights
+## Business Insights
 
 - **Netflix content is dominated by Movies compared to TV Shows, showing a strong focus on film-based content.**
 - **TV-PG is the most frequently occurring rating, indicating a strong preference for family-friendly content.**
