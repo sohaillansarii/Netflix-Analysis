@@ -17,7 +17,7 @@
 
 ## Overview
 This project presents an end-to-end analysis of Netflix Movies and TV Shows data using SQL for data exploration and Power BI for interactive visualization.
-The goal is to uncover meaningful insights about content distribution, trends, ratings, and global availability, and present them through a visually engaging dashboard..
+The goal is to uncover meaningful insights about content distribution, trends, ratings, and global availability, and present them through a visually engaging dashboard.
 
 ##  Objectives
 - Analyze the distribution of Movies vs TV Shows and identify the most common content ratings  
@@ -270,8 +270,12 @@ GROUP BY category;
 - **Geographical Insights:** Content is widely distributed across countries, with strong regional contributions, including insights into India’s content trends.  
 - **Interactive Visualization:** The Power BI dashboard enhances data interpretation through interactive visuals, enabling better exploration, storytelling, and decision-making.  
 
-This project provides a comprehensive and visually driven analysis of Netflix’s content, combining SQL and Power BI to deliver actionable insights for content strategy and business understanding.
+-- Business Insights
 
+-- Netflix content is dominated by Movies compared to TV Shows, showing a strong focus on film-based content.
+-- TV-PG is the most frequently occurring rating, indicating a strong preference for family-friendly content.
+-- Content additions have significantly increased in the last 5 years, showing rapid platform expansion and growth.
+-- TV Shows with only 1 season are the most common, indicating that short-series formats are more prevalent compared to long-running shows.
 
 
 ## Author - SOHAIL ANSARI
